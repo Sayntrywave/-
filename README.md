@@ -8,7 +8,7 @@
 
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  kanban-доска
-- [Figma]() - mockup-дизайн
+- [Figma](https://www.figma.com/file/Pib5HBtBHyg5I0HHOKkQaH/Макет-"МЕНЯЙСЯ!"?type=design&node-id=0:1&mode=design&t=NsmhQ7naN5ZhgozG-1) - mockup-дизайн
 
 
 ### Документация
