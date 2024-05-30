@@ -8,8 +8,9 @@
 -   [Коротков Никита](https://github.com/Sayntrywave "Коротков Никита") - Backend-разработчик, QA-инженер
 -   [Александр Тузман](https://github.com/Allexande "Александр Тузман") - Mobile-разработчик, дизайнер
 
-
-[backend](https://github.com/Sayntrywave/exchange-backend) - backend репозиторий
+### Приложение 
+- [backend](https://github.com/Sayntrywave/exchange-backend) - backend репозиторий
+- [frontend](https://github.com/soon) - frontend репозиторий
 
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
