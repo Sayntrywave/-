@@ -9,6 +9,8 @@
 -   [Александр Тузман](https://github.com/Allexande "Александр Тузман") - Mobile-разработчик, дизайнер
 
 
+[backend](https://github.com/Sayntrywave/exchange-backend) - backend репозиторий
+
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
 - [Figma](https://www.figma.com/file/Pib5HBtBHyg5I0HHOKkQaH/Макет-"МЕНЯЙСЯ!"?type=design&node-id=0:1&mode=design&t=NsmhQ7naN5ZhgozG-1) - Mockup-дизайн
