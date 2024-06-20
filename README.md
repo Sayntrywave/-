@@ -41,6 +41,6 @@
 - Презентация ТЗ (1 аттестация) [[video]](https://drive.google.com/file/d/1A9VLxambcZqrkJJhI21oWeEGToih64YC/view)
 - Первая презентация 
   [[pptx]](Документация/Презентация_на_начальном_этапе/Презентация/Презентация_1_аттестация.pptx) [[pdf]](Документация/Презентация_на_начальном_этапе/Презентация/Презентация_1_аттестация.pdf)
-- Презентация промежуточная (2 аттестация) [[video]](https://drive.google.com/file/d/1hARkxgVGV3ZwTgryuJj94j5rsaljJ7Dk/view?usp=sharing)
+- Презентация промежуточная (2 аттестация) [[video]](https://drive.google.com/file/d/1hARkxgVGV3ZwTgryuJj94j5rsaljJ7Dk/view?usp=sharing) [[youtube video]](https://youtu.be/6_djEYwWKek?si=jkcc5gjCsLYl5kpM)
 - Вторая презентация 
   [[pptx]](Документация/Презентация_на_промежуточном_этапе/Презентация/Презентация_2_аттестация.pptx) [[pdf]](Документация/Презентация_на_промежуточном_этапе/Презентация/Презентация_2_аттестация.pdf)  
