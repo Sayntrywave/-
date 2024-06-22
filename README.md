@@ -31,7 +31,7 @@
 - Курсовая работа 
    [[docx]](Документация/Курсовая/Курсовая_работа_Меняйся.docx)
    [[pdf]](Документация/Курсовая/Курсовая_работа_Меняйся.pdf)
-- Swagger [[link]](http://82.148.29.11:8080/swagger-ui/index.html#/user-controller/editUser)
+- Swagger [[link]](https://82.148.29.11:8080/swagger-ui/index.html)
 
 ### Презентации проекта
 - Презентация ТЗ (1 аттестация) [[video]](https://drive.google.com/file/d/1A9VLxambcZqrkJJhI21oWeEGToih64YC/view)
