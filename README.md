@@ -12,6 +12,7 @@
 - Гайд по использованию приложения [[pdf]](Документация/Гайд/Гайд_по_использованию_приложения.pdf) [[docx]](Документация/Гайд/Гайд_по_использованию_приложения.docx)
 - [backend](https://github.com/Sayntrywave/exchange-backend) - backend репозиторий
 - [frontend](https://github.com/Allexande/exchange-frontend) - frontend репозиторий
+- [Тестовое приложение](https://github.com/Allexande/exchange-frontend/blob/main/app-release.apk) - .apk приложения
 
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
