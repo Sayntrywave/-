@@ -16,17 +16,17 @@
 
 ### Данные для входа в приложение
 - Аккаунт администратора
-- email: Sayntrywave@yandex.ru
-- login: admin
-- password: admin
+email: Sayntrywave@yandex.ru
+login: admin
+password: admin
 
 - Аккаунт пользователя 1
-- email: oogrusha@gmail.com
-- password: Qwerty123
+email: oogrusha@gmail.com
+password: Qwerty123
 
 - Аккаунт пользователя 2
-- email: vinokurowlad@gmail.com
-- password: TestPassword123
+email: vinokurowlad@gmail.com
+password: TestPassword123
 
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
