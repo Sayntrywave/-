@@ -42,7 +42,9 @@
   [[pdf]](Документация/Техническое_задание/Техническое_задание.pdf)
 - Брендбук [[pdf]](Документация/Брендбук/Брендбук.pdf)
 - Оформительские задачи [[pdf]](Документация/Техническое_задание/Оформительские_задачи.pdf)
-- Обзор серверной чати приложения  [[ссылка]](https://drive.google.com/file/d/1xqUAkgTK6E9PV_YmS9KfmdR0r7V6Ous0/view?usp=sharing)
+- Обзор приложения  [[ссылка]](https://drive.google.com/file/d/1yMWSg5Dxzd_g4lrVPKaqXNhSzDOt5AnK/view?usp=sharing)
+- Обзор клиентской чати приложения  [[ссылка]](https://drive.google.com/file/d/1uxp7yUCiqAu6zB-XOAXB6oJtd6JJres3/view?usp=sharing)
+- Обзор серверной части приложения  [[ссылка]](https://drive.google.com/file/d/1xqUAkgTK6E9PV_YmS9KfmdR0r7V6Ous0/view?usp=sharing)
 - Курсовая работа 
    [[docx]](Документация/Курсовая/Курсовая_работа_Меняйся.docx)
    [[pdf]](Документация/Курсовая/Курсовая_работа_Меняйся.pdf)
