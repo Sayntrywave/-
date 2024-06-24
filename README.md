@@ -14,6 +14,20 @@
 - [frontend](https://github.com/Allexande/exchange-frontend) - frontend репозиторий
 - [Тестовое приложение](https://github.com/Allexande/exchange-frontend/blob/main/app-release.apk) - .apk приложения
 
+### Данные для входа в приложение
+- Аккаунт администратора
+- email: Sayntrywave@yandex.ru
+- login: admin
+- password: admin
+
+- Аккаунт пользователя 1
+- email: oogrusha@gmail.com
+- password: Qwerty123
+
+- Аккаунт пользователя 2
+- email: vinokurowlad@gmail.com
+- password: TestPassword123
+
 ### Использованные сервисы
 - [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
 - [Figma](https://www.figma.com/file/Pib5HBtBHyg5I0HHOKkQaH/Макет-"МЕНЯЙСЯ!"?type=design&node-id=0:1&mode=design&t=NsmhQ7naN5ZhgozG-1) - Mockup-дизайн
