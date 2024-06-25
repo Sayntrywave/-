@@ -7,17 +7,21 @@
 -   [Коротков Никита](https://github.com/Sayntrywave "Коротков Никита") - Backend-разработчик, QA-инженер
 -   [Александр Тузман](https://github.com/Allexande "Александр Тузман") - Mobile-разработчик, дизайнер
 
-## Репозитории 
-- [Frontend](https://github.com/Allexande/exchange-frontend) - frontend репозиторий
-- [Backend](https://github.com/Sayntrywave/exchange-backend) - backend репозиторий
+## Репозитории
+- [Frontend](https://github.com/Allexande/exchange-frontend) 
+- [Backend](https://github.com/Sayntrywave/exchange-backend)
 
 ## Сервисы
-- [Jira](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
+- [Jira*](https://oogrusha.atlassian.net/jira/software/projects/OEMF/boards/1) -  Kanban-доска
 - [Figma](https://www.figma.com/file/Pib5HBtBHyg5I0HHOKkQaH/Макет-"МЕНЯЙСЯ!"?type=design&node-id=0:1&mode=design&t=NsmhQ7naN5ZhgozG-1) - Mockup-дизайн
 
-Данные пользователя Jira для проверки:
-- syantywave@mail.ru - почта
-- syantry-exchange - пароль
+<small>
+* - Данные пользователя Jira для проверки:
+
+| Почта               | Пароль             |
+|---------------------|--------------------|
+| *syantywave@mail.ru*| *syantry-exchange* |
+</small>
 
 ## Документация
 - Техническое задание
@@ -54,22 +58,12 @@
 ## Использование
 - [APK приложения](https://github.com/Allexande/exchange-frontend/blob/main/app-release.apk)
 - Гайд по использованию приложения [[pdf]](Документация/Гайд/Гайд_по_использованию_приложения.pdf) [[docx]](Документация/Гайд/Гайд_по_использованию_приложения.docx)
-- Аккаунт администратора
-*email:* Sayntrywave@yandex.ru
-*login:* admin
-*password:* admin
+<small>
+* - Данные пользователей для проверки:
 
-- Аккаунт пользователя 1
-*email:* oogrusha@gmail.com
-*password:* Qwerty123
-
-- Аккаунт пользователя 2
-*email:* vinokurowlad@gmail.com
-*password:* TestPassword123
-
-
-
-
-
-
-
+| Аккаунт             | Почта                | Логин   | Пароль          |
+|---------------------|----------------------|---------|-----------------|
+| Администратор       | *Sayntrywave@yandex.ru* | *admin* | *admin*         |
+| Пользователь 1      | *oogrusha@gmail.com* | -       | *Qwerty123*     |
+| Пользователь 2      | *vinokurowlad@gmail.com* | -     | *TestPassword123* |
+</small>
