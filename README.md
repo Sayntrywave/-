@@ -4,7 +4,7 @@
 
 ## Команда ТП №6:
 -   [Оксана Грушевская](https://github.com/pizza4cheeze "Оксана Грушевская") - Project-Manager, Бизнес-анатилик, Технический писатель
--   [Коротков Никита](https://github.com/Sayntrywave "Коротков Никита") - Backend-разработчик, QA-инженер
+-   [Никита Коротков](https://github.com/Sayntrywave "Коротков Никита") - Backend-разработчик, QA-инженер
 -   [Александр Тузман](https://github.com/Allexande "Александр Тузман") - Mobile-разработчик, дизайнер
 
 ## Репозитории
@@ -56,7 +56,7 @@
 [[pdf]](Документация/Сопроводительное_письмо/Аттестация_3/Сопроводительное_письмо_3_атт.pdf)
 
 ## Использование
-- [APK приложения](https://github.com/Allexande/exchange-frontend/blob/main/app-release.apk)
+- Приложение [.apk](https://github.com/Allexande/exchange-frontend/blob/main/app-release.apk)
 - Гайд по использованию приложения [[pdf]](Документация/Гайд/Гайд_по_использованию_приложения.pdf) [[docx]](Документация/Гайд/Гайд_по_использованию_приложения.docx)
 <small>
 * - Данные пользователей для проверки:
@@ -64,6 +64,6 @@
 | Аккаунт             | Почта                | Логин   | Пароль          |
 |---------------------|----------------------|---------|-----------------|
 | Администратор       | *Sayntrywave@yandex.ru* | *admin* | *admin*         |
-| Пользователь 1      | *oogrusha@gmail.com* | -       | *Qwerty123*     |
-| Пользователь 2      | *vinokurowlad@gmail.com* | -     | *TestPassword123* |
+| Пользователь №1      | *oogrusha@gmail.com* | -       | *Qwerty123*     |
+| Пользователь №2      | *vinokurowlad@gmail.com* | -     | *TestPassword123* |
 </small>
